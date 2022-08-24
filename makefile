@@ -1,0 +1,2 @@
+hot:
+	docsify serve
