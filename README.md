@@ -1,6 +1,12 @@
 # knowledge
 
-A knowledge project for myself.
+A knowledge project.
+
+## online reading
+
+https://spike014.github.io/knowledge/#/
+
+## offline reading
 
 ### Install Dependency
 
@@ -8,7 +14,7 @@ A knowledge project for myself.
 npm i docsify-cli -g
 ```
 
-### Read
+### Sever -> Read
 
 ```bash
 make
