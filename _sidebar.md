@@ -1,5 +1,10 @@
 <!-- docs/_sidebar.md -->
 
+* 数据结构与算法
+* [布隆过滤器](structure/Bloom-Filter.md)
+* B/B+ 树 (TODO)
+
+
 * Golang
 * [测试（Go Test）](golang/test.md)
 
